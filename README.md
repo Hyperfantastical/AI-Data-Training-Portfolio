@@ -3,11 +3,11 @@
 
 ## 📂 About This Portfolio
 This repository contains real-world samples of my work in:
-- **RLHF / Chatbot Evaluation** (Sample 1)
-- **Multimodal Annotation** (Video/Image labeling - Sample 4)
-- **Data Validation & Python/Pandas** (Sample 5)
-- **AI Safety & Bias Detection** (Sample 6)
-- **Fact-Checking & Summarization** (Samples 2, 3, 7)
+- **RLHF / Chatbot Evaluation** 
+- **Multimodal Annotation** 
+- **Data Validation & Python/Pandas** 
+- **AI Safety & Bias Detection** 
+- **Fact-Checking & Summarization**
 
 ## 📫 Let's Connect
 - **Email**: ketnbubu@gmail.com
