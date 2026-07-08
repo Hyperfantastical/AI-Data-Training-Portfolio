@@ -1,0 +1,22 @@
+Task Description: Review the following text for factual errors, logical inconsistencies, and potential bias. Flag issues and provide corrected information.
+
+Original AI-Generated Text:
+
+"The Great Wall of China is visible from space with the naked eye. It was built entirely during the Ming Dynasty between 1368 and 1644. The wall is a single continuous structure that stretches over 13,000 miles and is made exclusively of stone and brick."
+
+My Review:
+
+Issue	Type	Correction Needed:
+
+--"Visible from space with the naked eye"	Factual Error	This is a myth. The Great Wall is generally not visible to the naked eye from low Earth orbit without magnification. NASA astronauts have confirmed this.
+--"Built entirely during the Ming Dynasty"	This is another Factual Error,	The wall was built over many dynasties, starting as early as the 7th century BC. The Ming Dynasty sections are the most famous and well-preserved, but not the entirety.
+--"Single continuous structure"	Factual Error	It's a series of fortifications, not a single continuous wall. There are gaps and multiple parallel sections.
+--"Made exclusively of stone and brick"	Is the last Factual Error in this sentence.	Construction materials varied by region and era, including rammed earth, wood, and other local materials.
+
+
+Corrected Version:
+
+The Great Wall of China is a series of fortifications built across multiple dynasties, with the earliest sections dating back to the 7th century BC. The most famous and well-preserved sections were built during the Ming Dynasty (1368–1644). The wall stretches over 13,000 miles in total, but it is not a single continuous structure—it includes gaps and parallel sections. Construction materials varied by region and included stone, brick, rammed earth, and wood. Contrary to popular myth, the wall is generally not visible to the naked eye from space without magnification.
+
+Additional Observations: The original text contains multiple factual errors that could mislead a user. This demonstrates the importance of fact-checking AI outputs, especially for historical or educational content. As seenn in Google AI searches having a moderate to high rate of hallucinations.
+---------------------------------------------------------------------------------------------------------------
