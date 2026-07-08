@@ -1,0 +1,26 @@
+Title: Chatbot Response Evaluation Sample – Factual Accuracy & Tone
+
+Task Description: Evaluate three AI-generated responses to the same prompt. Rank them, explain your reasoning, and suggest improvements.
+
+Prompt Used: "Explain what CRPS (Complex Regional Pain Syndrome) is and how it affects daily life, in terms a non-medical person can understand."
+
+AI Response A:
+
+"CRPS is a chronic pain condition that usually affects an arm or leg. It's caused by damage to the nervous system. Symptoms include burning pain, swelling, and changes in skin color. It can make daily activities difficult."
+
+AI Response B:
+
+"Complex Regional Pain Syndrome (CRPS) is a rare disorder that causes severe, persistent pain, often in a limb. The pain is thought to result from dysfunction in the peripheral and central nervous systems. Symptoms may include allodynia (pain from light touch), edema, and temperature changes. It can significantly impair mobility and quality of life."
+
+AI Response C:
+
+"CRPS is when your nerves go crazy after an injury and your arm or leg hurts really bad all the time. It swells up and changes color. It's super painful and makes everything hard."
+
+My Evaluation:
+
+Criteria	          Response A	                               Response B	                                          Response C
+Factual Accuracy:	  Good, but oversimplified	   Excellent – includes medical terminology	    Oversimplified to the point of being vague
+Clarity:	           Clear, accessible	                     Clear, slightly technical                        Clear, but too casual
+Tone:	               Professional, neutral	                 Professional, clinical	                         Too casual/informal
+Completeness:	       Basic overview                             Comprehensive                                 Lacks detail
+Instruction Following:	Partially	                                 Fully	                                    Partially
